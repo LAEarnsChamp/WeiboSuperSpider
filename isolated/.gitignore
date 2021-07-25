@@ -1,0 +1,231 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.vscode/launch.json
+.vscode/launch.json
+无 GUI 功能独立版/cookie.txt
+无 GUI 功能独立版/temp.html
+无 GUI 功能独立版/WeiboCommentScrapy.py
+无 GUI 功能独立版/WeiboSuperCommentScrapy.py
+无 GUI 功能独立版/WeiboTopicScrapy.py
+无 GUI 功能独立版/.vscode/launch.json
+无 GUI 功能独立版/comment/IaYZIu0Ko.csv
+无 GUI 功能独立版/.vscode/launch.json
+无 GUI 功能独立版/comment/IaYZIu0Ko.csv
+无 GUI 功能独立版/comment/IaYZIu0Ko.csv
+无 GUI 功能独立版/cookie.txt
+无 GUI 功能独立版/temp.html
+无 GUI 功能独立版/WeiboCommentScrapy.py
+无 GUI 功能独立版/WeiboSuperCommentScrapy.py
+无 GUI 功能独立版/WeiboTopicScrapy.py
+comment/KlC9UzSe9.csv
+comment/KlC9UzSe9.csv
+GUI/aa.png
+GUI/fb.png
+GUI/fp.png
+GUI/GUI.py
+GUI/ListModel.py
+GUI/ListView.py
+GUI/logo.jpg
+GUI/MyDialog.py
+GUI/oa.png
+GUI/start.bat
+GUI/WeiboCommentScrapy.py
+GUI/comment/IaXqijjA9.csv
+GUI/comment/IaYZIu0Ko.csv
+GUI/topic/香港.csv
+GUI/user/华为中国/2557129567.csv
+GUI/user/华为中国/2557129567.txt
+GUI/user/清华大学/1676317545.csv
+GUI/user/清华大学/1676317545.txt
+GUI/user/腾讯微信团队/1930378853.csv
+GUI/user/腾讯微信团队/1930378853.txt
+GUI/comment/IaXqijjA9.csv
+GUI/comment/IaYZIu0Ko.csv
+GUI/comment/IaXqijjA9.csv
+GUI/comment/IaYZIu0Ko.csv
+GUI/topic/香港.csv
+GUI/topic/香港.csv
+GUI/user/华为中国/2557129567.csv
+GUI/user/华为中国/2557129567.txt
+GUI/user/清华大学/1676317545.csv
+GUI/user/清华大学/1676317545.txt
+GUI/user/腾讯微信团队/1930378853.csv
+GUI/user/腾讯微信团队/1930378853.txt
+GUI/user/华为中国/2557129567.csv
+GUI/user/华为中国/2557129567.txt
+GUI/user/华为中国/2557129567.csv
+GUI/user/华为中国/2557129567.txt
+GUI/user/清华大学/1676317545.csv
+GUI/user/清华大学/1676317545.txt
+GUI/user/清华大学/1676317545.csv
+GUI/user/清华大学/1676317545.txt
+GUI/user/腾讯微信团队/1930378853.csv
+GUI/user/腾讯微信团队/1930378853.txt
+GUI/user/腾讯微信团队/1930378853.csv
+GUI/user/腾讯微信团队/1930378853.txt
+GUI/aa.png
+GUI/fb.png
+GUI/fp.png
+GUI/GUI.py
+GUI/ListModel.py
+GUI/ListView.py
+GUI/logo.jpg
+GUI/MyDialog.py
+GUI/oa.png
+GUI/start.bat
+GUI/WeiboCommentScrapy.py
+GUI 功能集中版/aa.png
+GUI 功能集中版/fb.png
+GUI 功能集中版/fp.png
+GUI 功能集中版/GUI.py
+GUI 功能集中版/ListModel.py
+GUI 功能集中版/ListView.py
+GUI 功能集中版/logo.jpg
+GUI 功能集中版/MyDialog.py
+GUI 功能集中版/oa.png
+GUI 功能集中版/WeiboCommentScrapy.py
+GUI 功能集中版/comment/IaXqijjA9.csv
+GUI 功能集中版/comment/IaYZIu0Ko.csv
+GUI 功能集中版/topic/香港.csv
+GUI 功能集中版/user/华为中国/2557129567.csv
+GUI 功能集中版/user/华为中国/2557129567.txt
+GUI 功能集中版/user/清华大学/1676317545.csv
+GUI 功能集中版/user/清华大学/1676317545.txt
+GUI 功能集中版/user/腾讯微信团队/1930378853.csv
+GUI 功能集中版/user/腾讯微信团队/1930378853.txt
+GUI 功能集中版/comment/IaXqijjA9.csv
+GUI 功能集中版/comment/IaYZIu0Ko.csv
+GUI 功能集中版/comment/IaXqijjA9.csv
+GUI 功能集中版/comment/IaYZIu0Ko.csv
+GUI 功能集中版/topic/香港.csv
+GUI 功能集中版/topic/香港.csv
+GUI 功能集中版/user/华为中国/2557129567.csv
+GUI 功能集中版/user/华为中国/2557129567.txt
+GUI 功能集中版/user/清华大学/1676317545.csv
+GUI 功能集中版/user/清华大学/1676317545.txt
+GUI 功能集中版/user/腾讯微信团队/1930378853.csv
+GUI 功能集中版/user/腾讯微信团队/1930378853.txt
+GUI 功能集中版/user/华为中国/2557129567.csv
+GUI 功能集中版/user/华为中国/2557129567.txt
+GUI 功能集中版/user/华为中国/2557129567.csv
+GUI 功能集中版/user/华为中国/2557129567.txt
+GUI 功能集中版/user/清华大学/1676317545.csv
+GUI 功能集中版/user/清华大学/1676317545.txt
+GUI 功能集中版/user/清华大学/1676317545.csv
+GUI 功能集中版/user/清华大学/1676317545.txt
+GUI 功能集中版/user/腾讯微信团队/1930378853.csv
+GUI 功能集中版/user/腾讯微信团队/1930378853.txt
+GUI 功能集中版/user/腾讯微信团队/1930378853.csv
+GUI 功能集中版/user/腾讯微信团队/1930378853.txt
+GUI 功能集中版/aa.png
+GUI 功能集中版/fb.png
+GUI 功能集中版/fp.png
+GUI 功能集中版/GUI.py
+GUI 功能集中版/ListModel.py
+GUI 功能集中版/ListView.py
+GUI 功能集中版/logo.jpg
+GUI 功能集中版/MyDialog.py
+GUI 功能集中版/oa.png
+GUI 功能集中版/WeiboCommentScrapy.py
