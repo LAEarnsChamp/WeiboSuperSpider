@@ -229,3 +229,51 @@ GUI 功能集中版/logo.jpg
 GUI 功能集中版/MyDialog.py
 GUI 功能集中版/oa.png
 GUI 功能集中版/WeiboCommentScrapy.py
+isolated/.gitignore
+isolated/GUI/aa.png
+isolated/GUI/fb.png
+isolated/GUI/fp.png
+isolated/GUI/GUI.py
+isolated/GUI/ListModel.py
+isolated/GUI/ListView.py
+isolated/GUI/logo.jpg
+isolated/GUI/MyDialog.py
+isolated/GUI/oa.png
+isolated/GUI/start.bat
+isolated/GUI/WeiboCommentScrapy.py
+isolated/GUI/comment/IaXqijjA9.csv
+isolated/GUI/comment/IaYZIu0Ko.csv
+isolated/GUI/topic/香港.csv
+isolated/GUI/user/华为中国/2557129567.csv
+isolated/GUI/user/华为中国/2557129567.txt
+isolated/GUI/user/清华大学/1676317545.csv
+isolated/GUI/user/清华大学/1676317545.txt
+isolated/GUI/user/腾讯微信团队/1930378853.csv
+isolated/GUI/user/腾讯微信团队/1930378853.txt
+isolated/无 GUI 功能独立版/cookie.txt
+isolated/无 GUI 功能独立版/temp.html
+isolated/无 GUI 功能独立版/WeiboSuperCommentScrapy.py
+isolated/无 GUI 功能独立版/WeiboTopicScrapy.py
+isolated/无 GUI 功能独立版/.vscode/launch.json
+isolated/无 GUI 功能独立版/comment/IaYZIu0Ko.csv
+comment/KgvUP83s7.csv
+comment/KhdfBsaEr.csv
+comment/KhECjuqJT.csv
+comment/KhS15j8F7.csv
+comment/KhTva0ntn.csv
+comment/KhygCrD1e.csv
+comment/KhzGGhdCz.csv
+comment/KiA6YqPne.csv
+comment/KigVPk41S.csv
+comment/KijdmidJ6.csv
+comment/Kik6hgDnY.csv
+comment/KiusQ6swz.csv
+comment/KiwsNywcV.csv
+comment/KiYDWuE91.csv
+comment/Kjb4IhXV0.csv
+comment/KjcQTboTc.csv
+comment/Kk8aV9QFE.csv
+comment/KkCrhuPNZ.csv
+comment/KlYkGbhX6.csv
+isolated/
+comment/
