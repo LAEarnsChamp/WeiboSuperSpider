@@ -27,9 +27,10 @@ import re
 from time import sleep
 from random import randint
 
+cookie = ' '
 headers = {
     'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
-    'Cookie': '''换成你自己的 cookie'''
+    'Cookie': cookie
 }
 
 class WeiboCommentScrapy(Thread):
@@ -163,5 +164,10 @@ class WeiboCommentScrapy(Thread):
             sleep(randint(1,5))
 
 if __name__ =="__main__":
-    WeiboCommentScrapy(wid='IaYZIu0Ko')
+    ids = []
+    with open('./ids.txt', 'r', encoding='utf-8') as f:
+        for id_ in f.readlines():
+            ids.append(id_.strip())
 
+    for id_ in ids:
+        WeiboCommentScrapy(wid=id_)
