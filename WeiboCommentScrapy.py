@@ -7,6 +7,7 @@
 # qq邮箱            2391527690@qq.com
 # 微信公众号         月小水长(ID: inspurer)
 
+from _typeshed import NoneType
 import requests
 
 requests.packages.urllib3.disable_warnings()
@@ -82,7 +83,10 @@ class WeiboCommentScrapy(Thread):
     def getPublisherInfo(self, url):
         res = requests.get(url=url, headers=self.headers, verify=False)
         html = etree.HTML(res.text.encode('utf-8'))
-        head = html.xpath("//div[@class='ut']/span[1]")[0]
+        try:
+            head = html.xpath("//div[@class='ut']/span[1]")[0]
+        except AttributeError:
+            return
         head = head.xpath('string(.)')[:-3].strip()
         keyIndex = head.index("/")
         nickName = head[0:keyIndex - 2]
